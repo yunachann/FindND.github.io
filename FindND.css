@@ -1,8 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-body {background-color:blanchedalmond;
+* {background-color:blanchedalmond;
 font-family: 'Roboto', sans-serif;}
 
-@media (min-width: 768px)
-{}
-@media (min-width:992px)
-{}
